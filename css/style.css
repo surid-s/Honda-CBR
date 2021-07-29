@@ -41,3 +41,35 @@ img {
     color: #E76F51;
     ;
 }
+
+.review-img-width {
+    width: 149px;
+    height: 149px;
+}
+
+/* font awesome color */
+.fa-star {
+    color: #E77C40;
+}
+
+.fa-star-half-alt {
+    color: #E77C40;
+}
+
+.job-title-color {
+    color: #252B42;
+}
+
+.image-size-resize {
+    border-radius: 100%;
+}
+
+/* FAQ */
+.faq-color {
+    color: #E76F51;
+}
+
+/* Footer  */
+.footer-background-gunda {
+    background-color: #0B0D17;
+}
