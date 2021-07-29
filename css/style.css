@@ -1,0 +1,31 @@
+/* Header Section  */
+.honda-bg {
+    background-color: #264653;
+    color: white;
+}
+
+.section-margin {
+    margin-top: 10px;
+}
+
+.honda-btn-custom {
+    background-color: #E76F51;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+
+.bike-height {
+    height: 447px;
+    width: 552px;
+}
+
+/* main section  */
+h5 {
+    color: #E76F51;
+}
+
+/* svg stroke  */
+.svg-container {
+    display: flex;
+    justify-content: center;
+}
