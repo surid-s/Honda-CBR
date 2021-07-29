@@ -14,11 +14,6 @@
     border-radius: 5px;
 }
 
-.bike-height {
-    height: 447px;
-    width: 552px;
-}
-
 /* main section  */
 h5 {
     color: #E76F51;
@@ -28,4 +23,21 @@ h5 {
 .svg-container {
     display: flex;
     justify-content: center;
+}
+
+/* feature bike  */
+img {
+    Width: 288px;
+    Height: 243px;
+}
+
+.gray-color {
+    filter: grayscale(100%);
+}
+
+/* clients review */
+
+.clients-text-color {
+    color: #E76F51;
+    ;
 }
